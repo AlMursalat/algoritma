@@ -1,4 +1,4 @@
-// VARIABLE dan RIPE DATA
+// VARIABLE dan TIPE DATA
 
 // var number = 10;
 // console.log(number);
